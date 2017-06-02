@@ -1,4 +1,4 @@
-#See Twitter Followers
+# See Twitter Followers
 
 This UserScript shows twitter followers beside the user's name
 
