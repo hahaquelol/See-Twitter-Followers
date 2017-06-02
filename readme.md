@@ -2,7 +2,7 @@
 
 This UserScript shows twitter followers beside the user's name
 
-Once you have GreaseMonkey or TamperMonkey installed, [Click Here](https://github.com/queuedandready/See-Twitter-Followers/raw/master/see-twitter-followers.user.js) to install it.
+Once you have GreaseMonkey or TamperMonkey installed, [Click Here](https://github.com/hahaquelol/See-Twitter-Followers/raw/master/see-twitter-followers.user.js) to install it.
 
 It does these things: 
 
