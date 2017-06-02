@@ -2,7 +2,7 @@
 // @name        See Twitter Followers
 // @description See twitter followers and hide moments
 // @match        *://twitter.com/*
-// @author      @queuedandready
+// @author      @iamquealt
 // @version     1
 // @grant       GM_xmlhttpRequest
 // @run-at document-end
